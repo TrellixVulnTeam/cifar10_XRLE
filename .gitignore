@@ -1,0 +1,7 @@
+/venv
+/.ipynb_checkpoints
+datasets/*
+*__pycache__
+*.tar.gz
+*.npz
+!**/.gitkeep
